@@ -1,0 +1,33 @@
+const ganar 1 = "фантастика"
+const ganar 1 = "боевик"
+const ganar 1 = "приключения"
+const ganar 1 = "фентези"
+const ganar 1 = "драма"
+const ganar 1 = "комедия"
+
+let start_film_1 = "10:00"
+let start_film_1 = "20:00"
+let start_film_1 = "22:00"
+let start_film_1 = "24:00"
+
+let name_film_1 = "Человек паук"
+let name_film_1 = "Собачья жизнь"
+let name_film_1 = "История игрушек"
+let name_film_1 = "Люди в черном Интернешнл"
+
+console.log('фильм 1'), name_film_1)
+
+let ganar name_film_1 ganar_1 + ', ' + ganar_2 + ', ' + ganar_3
+let ganar name_film_2 ganar_1 + ', ' + ganar_2 + ', ' + ganar_6
+let ganar name_film_3 ganar_1 + ', ' + ganar_2 + ', ' + ganar_3
+let ganar name_film_4 ganar_1 + ', ' + ganar_2 + ', ' + ganar_3
+
+let element_start_film_1 = document.getElementById('name_film_1')
+let element_start_film_1 = document.getElementById('name_film_1')
+let element_start_film_1 = document.getElementById('name_film_1')
+
+element_start_film_1.innerHTML = start_film_1
+element_start_film_1.innerHTML = name_film_1
+element_start_film_1.innerHTML = ganar_film_1
+
+console.log('element_start_film_1', element_start_film_1)
